@@ -1,8 +1,15 @@
-# Hackers
+# Hackers HN iOS App
 
-[![Build Status](https://travis-ci.org/weiran/Hackers.svg?branch=master)](https://travis-ci.org/weiran/Hackers)
+[![Build Status](https://travis-ci.org/ivmos/Hackers.svg?branch=master)](https://travis-ci.org/ivmos/Hackers)
+
+## About this fork
+
+This is a fork of [weiran/Hackers](https://github.com/weiran/Hackers). You want to use [weiran/Hackers](https://github.com/weiran/Hackers) unless you really need this features:
+* [Jobs tab switch setting](https://github.com/ivmos/Hackers/pull/1)
 
 Hackers is an iPhone and iPad app for reading Hacker News on the go. It's optimised for quickly catching up on the latest news and comments without getting in your way.
+
+## About Hackers HN iOS App
 
 ## Features
 
